@@ -15,8 +15,12 @@ def hopper
           :languages => ["C"]
         }
      }
+		 
 programmer_hash[:grace_hopper]
+
 end
+
+hopper 
 
 def alan_kay_is_known_for
 
@@ -103,7 +107,6 @@ def changing_alan
         }
      }
 		 programmer_hash[:alan_kay][:known_for] = "GUI"
-
 
 end
 
